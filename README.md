@@ -1,8 +1,3 @@
-the beautiful mirrors tutorial from codrops: https://tympanus.net/codrops/2020/09/30/creating-mirrors-in-react-three-fiber-and-three-js/
-but now in (mostly) typescript!
-referencing: https://codesandbox.io/s/ypt96?file=/package.json
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
